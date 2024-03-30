@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KrzysztofHyla
-- 👀 I’m interested in manual testing
+- 👀 I’m interested in manual testing  and automate tests
 - 🌱 I’m currently learning Selenium, Playwright, TS, ISTQB, Scrum, Jira
 - 💞️ I’m looking to collaborate on testing project
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: https://www.linkedin.com/in/krzysztof-hyla/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The tall one also has wisdom
 
